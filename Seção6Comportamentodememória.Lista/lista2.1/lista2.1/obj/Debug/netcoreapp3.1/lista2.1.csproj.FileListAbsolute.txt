@@ -1,0 +1,13 @@
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\lista2.1\lista2.1\bin\Debug\netcoreapp3.1\lista2.1.exe
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\lista2.1\lista2.1\bin\Debug\netcoreapp3.1\lista2.1.deps.json
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\lista2.1\lista2.1\bin\Debug\netcoreapp3.1\lista2.1.runtimeconfig.json
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\lista2.1\lista2.1\bin\Debug\netcoreapp3.1\lista2.1.runtimeconfig.dev.json
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\lista2.1\lista2.1\bin\Debug\netcoreapp3.1\lista2.1.dll
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\lista2.1\lista2.1\bin\Debug\netcoreapp3.1\lista2.1.pdb
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\lista2.1\lista2.1\obj\Debug\netcoreapp3.1\lista2.1.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\lista2.1\lista2.1\obj\Debug\netcoreapp3.1\lista2.1.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\lista2.1\lista2.1\obj\Debug\netcoreapp3.1\lista2.1.AssemblyInfo.cs
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\lista2.1\lista2.1\obj\Debug\netcoreapp3.1\lista2.1.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\lista2.1\lista2.1\obj\Debug\netcoreapp3.1\lista2.1.dll
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\lista2.1\lista2.1\obj\Debug\netcoreapp3.1\lista2.1.pdb
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\lista2.1\lista2.1\obj\Debug\netcoreapp3.1\lista2.1.genruntimeconfig.cache

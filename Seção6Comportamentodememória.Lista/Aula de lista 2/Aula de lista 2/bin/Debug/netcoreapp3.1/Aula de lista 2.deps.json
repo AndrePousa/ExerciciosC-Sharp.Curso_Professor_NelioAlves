@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula de lista 2/1.0.0": {
+        "runtime": {
+          "Aula de lista 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula de lista 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

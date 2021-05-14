@@ -1,0 +1,13 @@
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão7.Tópicos especiais1\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.exe
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão7.Tópicos especiais1\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.deps.json
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão7.Tópicos especiais1\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.runtimeconfig.json
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão7.Tópicos especiais1\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.runtimeconfig.dev.json
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão7.Tópicos especiais1\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.dll
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão7.Tópicos especiais1\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.pdb
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão7.Tópicos especiais1\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão7.Tópicos especiais1\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão7.Tópicos especiais1\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.AssemblyInfo.cs
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão7.Tópicos especiais1\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão7.Tópicos especiais1\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.dll
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão7.Tópicos especiais1\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.pdb
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão7.Tópicos especiais1\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.genruntimeconfig.cache

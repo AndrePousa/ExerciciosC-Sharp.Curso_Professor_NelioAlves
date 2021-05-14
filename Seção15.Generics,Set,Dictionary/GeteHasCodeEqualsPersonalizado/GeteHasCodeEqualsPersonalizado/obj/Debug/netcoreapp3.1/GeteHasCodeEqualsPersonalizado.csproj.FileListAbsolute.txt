@@ -1,0 +1,13 @@
+C:\Users\Andre\source\repos\GeteHasCodeEqualsPersonalizado\GeteHasCodeEqualsPersonalizado\bin\Debug\netcoreapp3.1\GeteHasCodeEqualsPersonalizado.exe
+C:\Users\Andre\source\repos\GeteHasCodeEqualsPersonalizado\GeteHasCodeEqualsPersonalizado\bin\Debug\netcoreapp3.1\GeteHasCodeEqualsPersonalizado.deps.json
+C:\Users\Andre\source\repos\GeteHasCodeEqualsPersonalizado\GeteHasCodeEqualsPersonalizado\bin\Debug\netcoreapp3.1\GeteHasCodeEqualsPersonalizado.runtimeconfig.json
+C:\Users\Andre\source\repos\GeteHasCodeEqualsPersonalizado\GeteHasCodeEqualsPersonalizado\bin\Debug\netcoreapp3.1\GeteHasCodeEqualsPersonalizado.runtimeconfig.dev.json
+C:\Users\Andre\source\repos\GeteHasCodeEqualsPersonalizado\GeteHasCodeEqualsPersonalizado\bin\Debug\netcoreapp3.1\GeteHasCodeEqualsPersonalizado.dll
+C:\Users\Andre\source\repos\GeteHasCodeEqualsPersonalizado\GeteHasCodeEqualsPersonalizado\bin\Debug\netcoreapp3.1\GeteHasCodeEqualsPersonalizado.pdb
+C:\Users\Andre\source\repos\GeteHasCodeEqualsPersonalizado\GeteHasCodeEqualsPersonalizado\obj\Debug\netcoreapp3.1\GeteHasCodeEqualsPersonalizado.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\GeteHasCodeEqualsPersonalizado\GeteHasCodeEqualsPersonalizado\obj\Debug\netcoreapp3.1\GeteHasCodeEqualsPersonalizado.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\GeteHasCodeEqualsPersonalizado\GeteHasCodeEqualsPersonalizado\obj\Debug\netcoreapp3.1\GeteHasCodeEqualsPersonalizado.AssemblyInfo.cs
+C:\Users\Andre\source\repos\GeteHasCodeEqualsPersonalizado\GeteHasCodeEqualsPersonalizado\obj\Debug\netcoreapp3.1\GeteHasCodeEqualsPersonalizado.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\GeteHasCodeEqualsPersonalizado\GeteHasCodeEqualsPersonalizado\obj\Debug\netcoreapp3.1\GeteHasCodeEqualsPersonalizado.dll
+C:\Users\Andre\source\repos\GeteHasCodeEqualsPersonalizado\GeteHasCodeEqualsPersonalizado\obj\Debug\netcoreapp3.1\GeteHasCodeEqualsPersonalizado.pdb
+C:\Users\Andre\source\repos\GeteHasCodeEqualsPersonalizado\GeteHasCodeEqualsPersonalizado\obj\Debug\netcoreapp3.1\GeteHasCodeEqualsPersonalizado.genruntimeconfig.cache

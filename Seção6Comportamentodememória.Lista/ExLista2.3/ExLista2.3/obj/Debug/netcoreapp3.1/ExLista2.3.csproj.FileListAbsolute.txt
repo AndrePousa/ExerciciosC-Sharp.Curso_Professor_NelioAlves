@@ -1,0 +1,13 @@
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\ExLista2.3\ExLista2.3\bin\Debug\netcoreapp3.1\ExLista2.3.exe
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\ExLista2.3\ExLista2.3\bin\Debug\netcoreapp3.1\ExLista2.3.deps.json
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\ExLista2.3\ExLista2.3\bin\Debug\netcoreapp3.1\ExLista2.3.runtimeconfig.json
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\ExLista2.3\ExLista2.3\bin\Debug\netcoreapp3.1\ExLista2.3.runtimeconfig.dev.json
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\ExLista2.3\ExLista2.3\bin\Debug\netcoreapp3.1\ExLista2.3.dll
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\ExLista2.3\ExLista2.3\bin\Debug\netcoreapp3.1\ExLista2.3.pdb
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\ExLista2.3\ExLista2.3\obj\Debug\netcoreapp3.1\ExLista2.3.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\ExLista2.3\ExLista2.3\obj\Debug\netcoreapp3.1\ExLista2.3.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\ExLista2.3\ExLista2.3\obj\Debug\netcoreapp3.1\ExLista2.3.AssemblyInfo.cs
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\ExLista2.3\ExLista2.3\obj\Debug\netcoreapp3.1\ExLista2.3.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\ExLista2.3\ExLista2.3\obj\Debug\netcoreapp3.1\ExLista2.3.dll
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\ExLista2.3\ExLista2.3\obj\Debug\netcoreapp3.1\ExLista2.3.pdb
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secçao6Comportamentodememória.Lista\ExLista2.3\ExLista2.3\obj\Debug\netcoreapp3.1\ExLista2.3.genruntimeconfig.cache

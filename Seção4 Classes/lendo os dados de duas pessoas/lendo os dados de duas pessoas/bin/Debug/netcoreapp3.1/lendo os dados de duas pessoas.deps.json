@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "lendo os dados de duas pessoas/1.0.0": {
+        "runtime": {
+          "lendo os dados de duas pessoas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lendo os dados de duas pessoas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
