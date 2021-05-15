@@ -24,7 +24,7 @@ namespace IntroducaoaoLinQ
                 .Select(x => x * 10);
 
             //Execute the query
-            foreach(int x in result)
+            foreach (int x in result)
             {
                 Console.WriteLine(x);
             }

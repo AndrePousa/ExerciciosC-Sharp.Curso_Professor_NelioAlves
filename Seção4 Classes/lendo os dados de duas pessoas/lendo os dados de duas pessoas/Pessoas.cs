@@ -5,15 +5,8 @@ using System.Text;
 namespace lendo_os_dados_de_duas_pessoas
 {
     class Pessoas
-
     {
-       
-
         public string Nome;
         public int Idade;
-
-        
-        
-
     }
 }

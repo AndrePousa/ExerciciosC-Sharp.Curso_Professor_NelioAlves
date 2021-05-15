@@ -21,9 +21,6 @@ namespace FuncoesString
             bool b1 = String.IsNullOrEmpty(original); //testa se a string está vazia//usad em formulario
             bool b2 = String.IsNullOrWhiteSpace(original);//teste se há apenas espaço em branco
 
-
-
-
             Console.WriteLine("Original: -" + original + "-");
             Console.WriteLine("ToUpper: " + s1 + "-");
             Console.WriteLine("ToLower: " + s2 + "-");

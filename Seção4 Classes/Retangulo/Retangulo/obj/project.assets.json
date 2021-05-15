@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\Retangulo\\Retangulo\\Retangulo.csproj",
+      "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção4 Classes\\Retangulo\\Retangulo\\Retangulo.csproj",
       "projectName": "Retangulo",
-      "projectPath": "C:\\Users\\Andre\\source\\repos\\Retangulo\\Retangulo\\Retangulo.csproj",
+      "projectPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção4 Classes\\Retangulo\\Retangulo\\Retangulo.csproj",
       "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andre\\source\\repos\\Retangulo\\Retangulo\\obj\\",
+      "outputPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção4 Classes\\Retangulo\\Retangulo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

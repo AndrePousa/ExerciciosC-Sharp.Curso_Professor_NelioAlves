@@ -8,7 +8,5 @@ namespace Mediadedoisfuncionarios
     {
         public double Salario;
         public string Nome;
-
-        
     }
 }

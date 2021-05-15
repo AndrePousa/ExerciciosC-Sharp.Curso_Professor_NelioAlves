@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andre\\source\\repos\\Funcionario\\Funcionario\\Funcionario.csproj": {}
+    "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção4 Classes\\Funcionario\\Funcionario\\Funcionario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andre\\source\\repos\\Funcionario\\Funcionario\\Funcionario.csproj": {
+    "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção4 Classes\\Funcionario\\Funcionario\\Funcionario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\Funcionario\\Funcionario\\Funcionario.csproj",
+        "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção4 Classes\\Funcionario\\Funcionario\\Funcionario.csproj",
         "projectName": "Funcionario",
-        "projectPath": "C:\\Users\\Andre\\source\\repos\\Funcionario\\Funcionario\\Funcionario.csproj",
+        "projectPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção4 Classes\\Funcionario\\Funcionario\\Funcionario.csproj",
         "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andre\\source\\repos\\Funcionario\\Funcionario\\obj\\",
+        "outputPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção4 Classes\\Funcionario\\Funcionario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

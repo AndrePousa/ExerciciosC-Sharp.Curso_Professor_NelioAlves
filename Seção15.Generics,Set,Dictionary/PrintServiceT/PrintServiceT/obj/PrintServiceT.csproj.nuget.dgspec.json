@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andre\\source\\repos\\PrintServiceT\\PrintServiceT\\PrintServiceT.csproj": {}
+    "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção15.Generics,Set,Dictionary\\PrintServiceT\\PrintServiceT\\PrintServiceT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andre\\source\\repos\\PrintServiceT\\PrintServiceT\\PrintServiceT.csproj": {
+    "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção15.Generics,Set,Dictionary\\PrintServiceT\\PrintServiceT\\PrintServiceT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\PrintServiceT\\PrintServiceT\\PrintServiceT.csproj",
+        "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção15.Generics,Set,Dictionary\\PrintServiceT\\PrintServiceT\\PrintServiceT.csproj",
         "projectName": "PrintServiceT",
-        "projectPath": "C:\\Users\\Andre\\source\\repos\\PrintServiceT\\PrintServiceT\\PrintServiceT.csproj",
+        "projectPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção15.Generics,Set,Dictionary\\PrintServiceT\\PrintServiceT\\PrintServiceT.csproj",
         "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andre\\source\\repos\\PrintServiceT\\PrintServiceT\\obj\\",
+        "outputPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção15.Generics,Set,Dictionary\\PrintServiceT\\PrintServiceT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

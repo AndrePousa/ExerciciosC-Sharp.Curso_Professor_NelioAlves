@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\Generics2\\Generics2\\Generics2.csproj",
+      "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção15.Generics,Set,Dictionary\\Generics2\\Generics2\\Generics2.csproj",
       "projectName": "Generics2",
-      "projectPath": "C:\\Users\\Andre\\source\\repos\\Generics2\\Generics2\\Generics2.csproj",
+      "projectPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção15.Generics,Set,Dictionary\\Generics2\\Generics2\\Generics2.csproj",
       "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andre\\source\\repos\\Generics2\\Generics2\\obj\\",
+      "outputPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção15.Generics,Set,Dictionary\\Generics2\\Generics2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

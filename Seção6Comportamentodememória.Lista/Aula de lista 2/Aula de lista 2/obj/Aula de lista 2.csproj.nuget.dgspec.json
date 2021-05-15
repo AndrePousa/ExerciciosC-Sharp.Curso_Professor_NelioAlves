@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andre\\source\\repos\\Aula de lista 2\\Aula de lista 2\\Aula de lista 2.csproj": {}
+    "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção6Comportamentodememória.Lista\\Aula de lista 2\\Aula de lista 2\\Aula de lista 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andre\\source\\repos\\Aula de lista 2\\Aula de lista 2\\Aula de lista 2.csproj": {
+    "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção6Comportamentodememória.Lista\\Aula de lista 2\\Aula de lista 2\\Aula de lista 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\Aula de lista 2\\Aula de lista 2\\Aula de lista 2.csproj",
+        "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção6Comportamentodememória.Lista\\Aula de lista 2\\Aula de lista 2\\Aula de lista 2.csproj",
         "projectName": "Aula de lista 2",
-        "projectPath": "C:\\Users\\Andre\\source\\repos\\Aula de lista 2\\Aula de lista 2\\Aula de lista 2.csproj",
+        "projectPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção6Comportamentodememória.Lista\\Aula de lista 2\\Aula de lista 2\\Aula de lista 2.csproj",
         "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andre\\source\\repos\\Aula de lista 2\\Aula de lista 2\\obj\\",
+        "outputPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção6Comportamentodememória.Lista\\Aula de lista 2\\Aula de lista 2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Secçao6Comportamentodememória.Lista\\Lista2.2\\Lista2.2\\Lista2.2.csproj": {}
+    "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção6Comportamentodememória.Lista\\Lista2.2\\Lista2.2\\Lista2.2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Secçao6Comportamentodememória.Lista\\Lista2.2\\Lista2.2\\Lista2.2.csproj": {
+    "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção6Comportamentodememória.Lista\\Lista2.2\\Lista2.2\\Lista2.2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Secçao6Comportamentodememória.Lista\\Lista2.2\\Lista2.2\\Lista2.2.csproj",
+        "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção6Comportamentodememória.Lista\\Lista2.2\\Lista2.2\\Lista2.2.csproj",
         "projectName": "Lista2.2",
-        "projectPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Secçao6Comportamentodememória.Lista\\Lista2.2\\Lista2.2\\Lista2.2.csproj",
+        "projectPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção6Comportamentodememória.Lista\\Lista2.2\\Lista2.2\\Lista2.2.csproj",
         "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Secçao6Comportamentodememória.Lista\\Lista2.2\\Lista2.2\\obj\\",
+        "outputPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção6Comportamentodememória.Lista\\Lista2.2\\Lista2.2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

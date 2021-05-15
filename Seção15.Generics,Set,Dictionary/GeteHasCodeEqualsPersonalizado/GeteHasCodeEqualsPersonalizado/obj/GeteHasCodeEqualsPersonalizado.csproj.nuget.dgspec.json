@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andre\\source\\repos\\GeteHasCodeEqualsPersonalizado\\GeteHasCodeEqualsPersonalizado\\GeteHasCodeEqualsPersonalizado.csproj": {}
+    "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção15.Generics,Set,Dictionary\\GeteHasCodeEqualsPersonalizado\\GeteHasCodeEqualsPersonalizado\\GeteHasCodeEqualsPersonalizado.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andre\\source\\repos\\GeteHasCodeEqualsPersonalizado\\GeteHasCodeEqualsPersonalizado\\GeteHasCodeEqualsPersonalizado.csproj": {
+    "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção15.Generics,Set,Dictionary\\GeteHasCodeEqualsPersonalizado\\GeteHasCodeEqualsPersonalizado\\GeteHasCodeEqualsPersonalizado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\GeteHasCodeEqualsPersonalizado\\GeteHasCodeEqualsPersonalizado\\GeteHasCodeEqualsPersonalizado.csproj",
+        "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção15.Generics,Set,Dictionary\\GeteHasCodeEqualsPersonalizado\\GeteHasCodeEqualsPersonalizado\\GeteHasCodeEqualsPersonalizado.csproj",
         "projectName": "GeteHasCodeEqualsPersonalizado",
-        "projectPath": "C:\\Users\\Andre\\source\\repos\\GeteHasCodeEqualsPersonalizado\\GeteHasCodeEqualsPersonalizado\\GeteHasCodeEqualsPersonalizado.csproj",
+        "projectPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção15.Generics,Set,Dictionary\\GeteHasCodeEqualsPersonalizado\\GeteHasCodeEqualsPersonalizado\\GeteHasCodeEqualsPersonalizado.csproj",
         "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andre\\source\\repos\\GeteHasCodeEqualsPersonalizado\\GeteHasCodeEqualsPersonalizado\\obj\\",
+        "outputPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção15.Generics,Set,Dictionary\\GeteHasCodeEqualsPersonalizado\\GeteHasCodeEqualsPersonalizado\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

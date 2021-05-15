@@ -10,7 +10,6 @@ namespace Equals
             string b = "Lilian";
             //Equals retorna um bool
             Console.WriteLine(a.Equals(b));
-            
         }
     }
 }

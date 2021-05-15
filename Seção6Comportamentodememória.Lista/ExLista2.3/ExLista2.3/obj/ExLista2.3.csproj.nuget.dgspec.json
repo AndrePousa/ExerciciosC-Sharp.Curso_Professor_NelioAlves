@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Secçao6Comportamentodememória.Lista\\ExLista2.3\\ExLista2.3\\ExLista2.3.csproj": {}
+    "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção6Comportamentodememória.Lista\\ExLista2.3\\ExLista2.3\\ExLista2.3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Secçao6Comportamentodememória.Lista\\ExLista2.3\\ExLista2.3\\ExLista2.3.csproj": {
+    "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção6Comportamentodememória.Lista\\ExLista2.3\\ExLista2.3\\ExLista2.3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Secçao6Comportamentodememória.Lista\\ExLista2.3\\ExLista2.3\\ExLista2.3.csproj",
+        "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção6Comportamentodememória.Lista\\ExLista2.3\\ExLista2.3\\ExLista2.3.csproj",
         "projectName": "ExLista2.3",
-        "projectPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Secçao6Comportamentodememória.Lista\\ExLista2.3\\ExLista2.3\\ExLista2.3.csproj",
+        "projectPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção6Comportamentodememória.Lista\\ExLista2.3\\ExLista2.3\\ExLista2.3.csproj",
         "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Secçao6Comportamentodememória.Lista\\ExLista2.3\\ExLista2.3\\obj\\",
+        "outputPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção6Comportamentodememória.Lista\\ExLista2.3\\ExLista2.3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

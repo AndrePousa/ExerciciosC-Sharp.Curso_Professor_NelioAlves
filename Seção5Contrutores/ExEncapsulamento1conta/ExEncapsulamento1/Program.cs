@@ -46,10 +46,6 @@ namespace ExEncapsulamento1
             Console.WriteLine(conta);
 
             Console.ReadLine();
-
-           
-
-
         }
     }
 }

@@ -42,9 +42,6 @@ namespace ExEncapsulamento1
             + ", Saldo: $ "
             + Saldo.ToString("F2", CultureInfo.InvariantCulture);
         }
-
-
-
     }
    
 }

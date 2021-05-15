@@ -22,14 +22,8 @@ namespace Mediadedoisfuncionarios
             Console.WriteLine("Digite o Salario");
             f2.Salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-           
             double media = (f1.Salario + f2.Salario) / 2.0;
-
-            Console.WriteLine(" O salario médio é = " + media.ToString("F2", CultureInfo.InvariantCulture)); 
-
-
-
-            
+            Console.WriteLine("O salario médio é = " + media.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
 }

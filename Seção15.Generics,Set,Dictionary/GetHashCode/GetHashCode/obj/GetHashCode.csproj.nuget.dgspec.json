@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andre\\source\\repos\\GetHashCode\\GetHashCode\\GetHashCode.csproj": {}
+    "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção15.Generics,Set,Dictionary\\GetHashCode\\GetHashCode\\GetHashCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andre\\source\\repos\\GetHashCode\\GetHashCode\\GetHashCode.csproj": {
+    "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção15.Generics,Set,Dictionary\\GetHashCode\\GetHashCode\\GetHashCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\GetHashCode\\GetHashCode\\GetHashCode.csproj",
+        "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção15.Generics,Set,Dictionary\\GetHashCode\\GetHashCode\\GetHashCode.csproj",
         "projectName": "GetHashCode",
-        "projectPath": "C:\\Users\\Andre\\source\\repos\\GetHashCode\\GetHashCode\\GetHashCode.csproj",
+        "projectPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção15.Generics,Set,Dictionary\\GetHashCode\\GetHashCode\\GetHashCode.csproj",
         "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andre\\source\\repos\\GetHashCode\\GetHashCode\\obj\\",
+        "outputPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção15.Generics,Set,Dictionary\\GetHashCode\\GetHashCode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

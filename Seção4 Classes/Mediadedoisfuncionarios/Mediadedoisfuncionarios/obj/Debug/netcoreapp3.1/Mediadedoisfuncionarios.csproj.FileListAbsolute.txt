@@ -11,3 +11,16 @@ C:\Users\Andre\source\repos\Mediadedoisfuncionarios\Mediadedoisfuncionarios\obj\
 C:\Users\Andre\source\repos\Mediadedoisfuncionarios\Mediadedoisfuncionarios\obj\Debug\netcoreapp3.1\Mediadedoisfuncionarios.dll
 C:\Users\Andre\source\repos\Mediadedoisfuncionarios\Mediadedoisfuncionarios\obj\Debug\netcoreapp3.1\Mediadedoisfuncionarios.pdb
 C:\Users\Andre\source\repos\Mediadedoisfuncionarios\Mediadedoisfuncionarios\obj\Debug\netcoreapp3.1\Mediadedoisfuncionarios.genruntimeconfig.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\Mediadedoisfuncionarios\Mediadedoisfuncionarios\bin\Debug\netcoreapp3.1\Mediadedoisfuncionarios.exe
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\Mediadedoisfuncionarios\Mediadedoisfuncionarios\bin\Debug\netcoreapp3.1\Mediadedoisfuncionarios.deps.json
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\Mediadedoisfuncionarios\Mediadedoisfuncionarios\bin\Debug\netcoreapp3.1\Mediadedoisfuncionarios.runtimeconfig.json
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\Mediadedoisfuncionarios\Mediadedoisfuncionarios\bin\Debug\netcoreapp3.1\Mediadedoisfuncionarios.runtimeconfig.dev.json
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\Mediadedoisfuncionarios\Mediadedoisfuncionarios\bin\Debug\netcoreapp3.1\Mediadedoisfuncionarios.dll
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\Mediadedoisfuncionarios\Mediadedoisfuncionarios\bin\Debug\netcoreapp3.1\Mediadedoisfuncionarios.pdb
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\Mediadedoisfuncionarios\Mediadedoisfuncionarios\obj\Debug\netcoreapp3.1\Mediadedoisfuncionarios.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\Mediadedoisfuncionarios\Mediadedoisfuncionarios\obj\Debug\netcoreapp3.1\Mediadedoisfuncionarios.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\Mediadedoisfuncionarios\Mediadedoisfuncionarios\obj\Debug\netcoreapp3.1\Mediadedoisfuncionarios.AssemblyInfo.cs
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\Mediadedoisfuncionarios\Mediadedoisfuncionarios\obj\Debug\netcoreapp3.1\Mediadedoisfuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\Mediadedoisfuncionarios\Mediadedoisfuncionarios\obj\Debug\netcoreapp3.1\Mediadedoisfuncionarios.dll
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\Mediadedoisfuncionarios\Mediadedoisfuncionarios\obj\Debug\netcoreapp3.1\Mediadedoisfuncionarios.pdb
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\Mediadedoisfuncionarios\Mediadedoisfuncionarios\obj\Debug\netcoreapp3.1\Mediadedoisfuncionarios.genruntimeconfig.cache

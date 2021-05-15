@@ -23,7 +23,7 @@ namespace Lista2._2
             {
                 Console.WriteLine(obj);
             }
-            //função Find recebe como algumento uma função que faz um teste
+            //função .Find recebe como algumento uma função que faz um teste
             // string s1 = list.Find(Test);
             string s1 = list.Find(x => x[0] == 'A');
             Console.WriteLine("Firs 'A': " + s1);
@@ -48,10 +48,9 @@ namespace Lista2._2
             }
         }
 
-       /* static bool Test(string s)
-        {
-            return s[0] == 'A';
-        }*/
-
+        /* static bool Test(string s)
+         {
+             return s[0] == 'A';
+         }*/
     }
 }

@@ -18,7 +18,6 @@ namespace PrintServiceT
             _values[_count] = value;
             _count++;
         }
-
         public T First()
         {
             if (_count == 0)

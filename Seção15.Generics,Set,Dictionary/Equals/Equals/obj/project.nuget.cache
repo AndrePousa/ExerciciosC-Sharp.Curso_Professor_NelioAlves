@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZIXyo4xO2+xtDuE+nAQRwQj6is5ZDc1UZ59geDmRz/Xl34kLIuAZ1mLpyiKiNGqczLsXUN3ajbEJ87R+9TEI1A==",
+  "dgSpecHash": "OyqgnrjsPt0uBc6GoZDblWLrjPyEzIe6YmeTXtnIhexU++b2CRZo5tQmK0WaX6iwpxyzDFl5HqlO8qkckDlfcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andre\\source\\repos\\Equals\\Equals\\Equals.csproj",
+  "projectFilePath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção15.Generics,Set,Dictionary\\Equals\\Equals\\Equals.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

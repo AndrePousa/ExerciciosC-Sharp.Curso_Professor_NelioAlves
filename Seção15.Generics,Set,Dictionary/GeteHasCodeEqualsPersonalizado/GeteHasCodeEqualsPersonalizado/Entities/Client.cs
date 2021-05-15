@@ -14,7 +14,7 @@ namespace GeteHasCodeEqualsPersonalizado.Entities
         //sobrescrevi o Equals
         public override bool Equals(object obj)
         {
-            if(!(obj is Client))
+            if (!(obj is Client))
             {
                 return false;
             }

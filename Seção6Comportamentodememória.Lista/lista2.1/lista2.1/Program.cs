@@ -26,8 +26,7 @@ namespace lista2._1
 
             Console.WriteLine("List count: " + list.Count);
 
-            Console.ReadLine();
-            
+            Console.ReadLine();         
         }
     }
 }

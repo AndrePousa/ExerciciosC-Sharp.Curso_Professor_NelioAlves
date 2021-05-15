@@ -5,7 +5,7 @@ namespace Exercicio_do_Triangulo
 {
     class Program
     {
-         
+
         static void Main(string[] args)
 
         {
@@ -14,16 +14,16 @@ namespace Exercicio_do_Triangulo
             x = new Triangulo();
             y = new Triangulo();
 
-           
+
             Console.WriteLine("Entre com as medidas do Triangulo x: ");
             x.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             x.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             x.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.WriteLine("Entre com as medidas do Triangulo y:"); 
+            Console.WriteLine("Entre com as medidas do Triangulo y:");
 
-            y.A = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
-            y.B = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+            y.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             double areaX = x.Area();
@@ -33,7 +33,7 @@ namespace Exercicio_do_Triangulo
             Console.WriteLine("Area de x = " + areaX.ToString("F4", CultureInfo.InvariantCulture));
             Console.WriteLine("Area de y = " + areaY.ToString("F4", CultureInfo.InvariantCulture));
 
-            if(areaX > areaY) 
+            if (areaX > areaY)
             {
                 Console.WriteLine(" A maior area é a de X");
             }
@@ -42,7 +42,7 @@ namespace Exercicio_do_Triangulo
             {
                 Console.WriteLine(" A maior area é a de Y");
             }
-            
+
         }
     }
 }

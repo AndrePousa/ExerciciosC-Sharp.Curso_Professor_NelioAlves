@@ -44,10 +44,7 @@ namespace Generics1
             }
             Console.WriteLine("]");
         }
-
-
     }
-
 }
 
 

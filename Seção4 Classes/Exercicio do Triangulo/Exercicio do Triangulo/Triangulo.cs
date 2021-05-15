@@ -8,9 +8,9 @@ namespace Exercicio_do_Triangulo
     {
 
 
-         public double A;
-         public double B;
-         public double C;
+        public double A;
+        public double B;
+        public double C;
 
         public double Area()
         {
@@ -19,5 +19,5 @@ namespace Exercicio_do_Triangulo
         }
     }
 
-    
-}    
+
+}

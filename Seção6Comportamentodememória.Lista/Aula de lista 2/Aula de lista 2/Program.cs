@@ -31,7 +31,7 @@ namespace Aula_de_lista_2
            //.Count,  mostra o tamanho da lista
             Console.WriteLine("List count: " + list.Count);
 
-            //Encontra na lista o primeiro ou último elementos da lista que sarisfaça um predicado
+            //Encontra na lista o primeiro ou último elementos da lista que satisfaça um predicado
             //.Find , . FindLast
             //o .Find() espera uma função que faz um teste booleano
             string s1 = list.Find(Test);

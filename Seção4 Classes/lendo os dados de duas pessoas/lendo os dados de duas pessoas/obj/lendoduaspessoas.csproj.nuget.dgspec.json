@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andre\\source\\repos\\lendo os dados de duas pessoas\\lendo os dados de duas pessoas\\lendoduaspessoas.csproj": {}
+    "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção4 Classes\\lendo os dados de duas pessoas\\lendo os dados de duas pessoas\\lendoduaspessoas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andre\\source\\repos\\lendo os dados de duas pessoas\\lendo os dados de duas pessoas\\lendoduaspessoas.csproj": {
+    "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção4 Classes\\lendo os dados de duas pessoas\\lendo os dados de duas pessoas\\lendoduaspessoas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\lendo os dados de duas pessoas\\lendo os dados de duas pessoas\\lendoduaspessoas.csproj",
+        "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção4 Classes\\lendo os dados de duas pessoas\\lendo os dados de duas pessoas\\lendoduaspessoas.csproj",
         "projectName": "lendoduaspessoas",
-        "projectPath": "C:\\Users\\Andre\\source\\repos\\lendo os dados de duas pessoas\\lendo os dados de duas pessoas\\lendoduaspessoas.csproj",
+        "projectPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção4 Classes\\lendo os dados de duas pessoas\\lendo os dados de duas pessoas\\lendoduaspessoas.csproj",
         "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andre\\source\\repos\\lendo os dados de duas pessoas\\lendo os dados de duas pessoas\\obj\\",
+        "outputPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção4 Classes\\lendo os dados de duas pessoas\\lendo os dados de duas pessoas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

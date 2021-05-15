@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andre\\source\\repos\\IntroducaoaoLinQ\\IntroducaoaoLinQ\\IntroducaoaoLinQ.csproj": {}
+    "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Secão17LinQeLambida\\IntroducaoaoLinQ\\IntroducaoaoLinQ\\IntroducaoaoLinQ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andre\\source\\repos\\IntroducaoaoLinQ\\IntroducaoaoLinQ\\IntroducaoaoLinQ.csproj": {
+    "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Secão17LinQeLambida\\IntroducaoaoLinQ\\IntroducaoaoLinQ\\IntroducaoaoLinQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\IntroducaoaoLinQ\\IntroducaoaoLinQ\\IntroducaoaoLinQ.csproj",
+        "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Secão17LinQeLambida\\IntroducaoaoLinQ\\IntroducaoaoLinQ\\IntroducaoaoLinQ.csproj",
         "projectName": "IntroducaoaoLinQ",
-        "projectPath": "C:\\Users\\Andre\\source\\repos\\IntroducaoaoLinQ\\IntroducaoaoLinQ\\IntroducaoaoLinQ.csproj",
+        "projectPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Secão17LinQeLambida\\IntroducaoaoLinQ\\IntroducaoaoLinQ\\IntroducaoaoLinQ.csproj",
         "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andre\\source\\repos\\IntroducaoaoLinQ\\IntroducaoaoLinQ\\obj\\",
+        "outputPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Secão17LinQeLambida\\IntroducaoaoLinQ\\IntroducaoaoLinQ\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

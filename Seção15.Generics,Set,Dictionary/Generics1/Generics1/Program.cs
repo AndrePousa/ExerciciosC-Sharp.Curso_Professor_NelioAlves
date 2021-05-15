@@ -11,11 +11,11 @@ namespace Generics1
             Console.WriteLine("Quantos valores você irá digitar ? ");
             int n = int.Parse(Console.ReadLine());
 
-            for( int i = 0; i < n; i++)
+            for (int i = 0; i < n; i++)
             {
                 int x = int.Parse(Console.ReadLine());
                 printService.AddValue(x);
-                    
+
             }
 
             printService.Print();

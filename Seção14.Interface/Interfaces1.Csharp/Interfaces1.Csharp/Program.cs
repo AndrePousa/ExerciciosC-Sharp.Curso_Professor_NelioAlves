@@ -7,8 +7,6 @@ namespace Interfaces1.Csharp
 {
     class Program
     {
-        
-
         static void Main(string[] args)
         {
             Console.WriteLine("Entre com a  Data do Aluguel");
@@ -32,7 +30,6 @@ namespace Interfaces1.Csharp
 
             Console.WriteLine("Fatura: ");
             Console.WriteLine(carroAluguel.Fatura);
-        }
-        Console.ReadLine();
+        }      
     }
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\ExerciciosdeClassecap4\\Mediadedoisfuncionarios\\Mediadedoisfuncionarios\\Mediadedoisfuncionarios.csproj",
+      "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção4 Classes\\Mediadedoisfuncionarios\\Mediadedoisfuncionarios\\Mediadedoisfuncionarios.csproj",
       "projectName": "Mediadedoisfuncionarios",
-      "projectPath": "C:\\Users\\Andre\\source\\repos\\ExerciciosdeClassecap4\\Mediadedoisfuncionarios\\Mediadedoisfuncionarios\\Mediadedoisfuncionarios.csproj",
+      "projectPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção4 Classes\\Mediadedoisfuncionarios\\Mediadedoisfuncionarios\\Mediadedoisfuncionarios.csproj",
       "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andre\\source\\repos\\ExerciciosdeClassecap4\\Mediadedoisfuncionarios\\Mediadedoisfuncionarios\\obj\\",
+      "outputPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção4 Classes\\Mediadedoisfuncionarios\\Mediadedoisfuncionarios\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
