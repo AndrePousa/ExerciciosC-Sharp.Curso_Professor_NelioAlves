@@ -1,0 +1,13 @@
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\LendoDadosFuncionárioImposto\LendoDadosFuncionárioImposto\bin\Debug\netcoreapp3.1\LendoDadosFuncionárioImposto.exe
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\LendoDadosFuncionárioImposto\LendoDadosFuncionárioImposto\bin\Debug\netcoreapp3.1\LendoDadosFuncionárioImposto.deps.json
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\LendoDadosFuncionárioImposto\LendoDadosFuncionárioImposto\bin\Debug\netcoreapp3.1\LendoDadosFuncionárioImposto.runtimeconfig.json
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\LendoDadosFuncionárioImposto\LendoDadosFuncionárioImposto\bin\Debug\netcoreapp3.1\LendoDadosFuncionárioImposto.runtimeconfig.dev.json
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\LendoDadosFuncionárioImposto\LendoDadosFuncionárioImposto\bin\Debug\netcoreapp3.1\LendoDadosFuncionárioImposto.dll
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\LendoDadosFuncionárioImposto\LendoDadosFuncionárioImposto\bin\Debug\netcoreapp3.1\LendoDadosFuncionárioImposto.pdb
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\LendoDadosFuncionárioImposto\LendoDadosFuncionárioImposto\obj\Debug\netcoreapp3.1\LendoDadosFuncionárioImposto.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\LendoDadosFuncionárioImposto\LendoDadosFuncionárioImposto\obj\Debug\netcoreapp3.1\LendoDadosFuncionárioImposto.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\LendoDadosFuncionárioImposto\LendoDadosFuncionárioImposto\obj\Debug\netcoreapp3.1\LendoDadosFuncionárioImposto.AssemblyInfo.cs
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\LendoDadosFuncionárioImposto\LendoDadosFuncionárioImposto\obj\Debug\netcoreapp3.1\LendoDadosFuncionárioImposto.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\LendoDadosFuncionárioImposto\LendoDadosFuncionárioImposto\obj\Debug\netcoreapp3.1\LendoDadosFuncionárioImposto.dll
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\LendoDadosFuncionárioImposto\LendoDadosFuncionárioImposto\obj\Debug\netcoreapp3.1\LendoDadosFuncionárioImposto.pdb
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\LendoDadosFuncionárioImposto\LendoDadosFuncionárioImposto\obj\Debug\netcoreapp3.1\LendoDadosFuncionárioImposto.genruntimeconfig.cache

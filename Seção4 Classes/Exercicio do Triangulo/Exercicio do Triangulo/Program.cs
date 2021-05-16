@@ -9,19 +9,18 @@ namespace Exercicio_do_Triangulo
         static void Main(string[] args)
 
         {
+            //Instanciação das classes
+            //Alocação dinamica de memória
             Triangulo x, y;
-
-            x = new Triangulo();
+            x = new Triangulo(); //criou um objeto composto na memória
             y = new Triangulo();
 
-
-            Console.WriteLine("Entre com as medidas do Triangulo x: ");
+            Console.WriteLine("Entre com as medidas do Triangulo x: ");          
             x.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             x.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             x.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.WriteLine("Entre com as medidas do Triangulo y:");
-
             y.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
@@ -35,7 +34,7 @@ namespace Exercicio_do_Triangulo
 
             if (areaX > areaY)
             {
-                Console.WriteLine(" A maior area é a de X");
+                Console.WriteLine("A maior area é a de X");
             }
 
             else
