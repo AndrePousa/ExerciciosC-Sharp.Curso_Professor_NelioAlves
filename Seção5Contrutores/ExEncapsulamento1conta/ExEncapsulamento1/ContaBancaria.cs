@@ -7,30 +7,34 @@ namespace ExEncapsulamento1
 {
     class ContaBancaria
     {
-        public  int Numero { get; set; }
+        public int Numero { get; private set; }
         public string Titular { get; set; }
-        public double Saldo { get; set; }
+        public double Saldo { get; private set; }
 
-        public ContaBancaria(int numero, string titular) 
+        //construtor com 2 argumentos
+        public ContaBancaria(int numero, string titular)
         {
             Numero = numero;
             Titular = titular;
+            Saldo = 0; //opcional
         }
         public ContaBancaria(int numero, string titular, double saldo)
-        
+            //reaproveitando o construtor com 2 argumentos
             : this(numero, titular)
-        { 
+        {
             Saldo = saldo;
         }
-
-            public void Deposito (double quantia)
+        //metodo Deposito.
+        public void Deposito(double quantia)
         {
             Saldo += quantia;
         }
-
-        public void Saque (double quantia)
+        //metodo Saque.
+        public void Saque(double quantia)
         {
             Saldo -= quantia + 5.0;
+            //uma operação desconta a quantia e uma operação desconta a taxa.
+            //ou Saldo -= 5.0; 
         }
 
         public override string ToString()
@@ -43,5 +47,4 @@ namespace ExEncapsulamento1
             + Saldo.ToString("F2", CultureInfo.InvariantCulture);
         }
     }
-   
 }
