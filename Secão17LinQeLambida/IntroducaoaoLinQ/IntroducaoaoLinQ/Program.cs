@@ -1,5 +1,6 @@
 ﻿using System;
-using System.Linq;
+using System.Linq; //importando o namespace do linq
+using System.Collections.Generic;
 
 namespace IntroducaoaoLinQ
 {
@@ -7,19 +8,20 @@ namespace IntroducaoaoLinQ
     {
         static void Main(string[] args)
         {
-            //Especify the data source
+            //Especificar a fonte de dados
+            // Specify the data source.
             int[] numbers = new int[] { 1, 2, 3, 4, 5 };
 
-            //Definine the query expression
-            //definição de consulta
-            //Pegar todo numero que for par e multiplica -lo por 10
+            //Define the query expression.
+            //Definição de consulta
+            //Pegar todo numero que for par e multiplica-lo por 10
 
             //variavel resultado será a fonte de dados. 
-            //extension metodos
+            //Extension metodos
 
-            //where filtra a fonte de dados
-            //gerar uma coleção que atender os predicados que eu informar como argumento da operação
-            var result = numbers
+            //Where filtra a fonte de dados
+            //Gerar uma coleção que atender os predicados que eu informar como argumento da operação
+            IEnumerable<int> result = numbers
                 .Where(x => x % 2 == 0)
                 .Select(x => x * 10);
 
