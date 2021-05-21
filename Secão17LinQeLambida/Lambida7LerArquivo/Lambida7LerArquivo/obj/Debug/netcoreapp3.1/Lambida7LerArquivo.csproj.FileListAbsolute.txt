@@ -1,0 +1,13 @@
+C:\Users\Andre\source\repos\Lambida7LerArquivo\Lambida7LerArquivo\bin\Debug\netcoreapp3.1\Lambida7LerArquivo.exe
+C:\Users\Andre\source\repos\Lambida7LerArquivo\Lambida7LerArquivo\bin\Debug\netcoreapp3.1\Lambida7LerArquivo.deps.json
+C:\Users\Andre\source\repos\Lambida7LerArquivo\Lambida7LerArquivo\bin\Debug\netcoreapp3.1\Lambida7LerArquivo.runtimeconfig.json
+C:\Users\Andre\source\repos\Lambida7LerArquivo\Lambida7LerArquivo\bin\Debug\netcoreapp3.1\Lambida7LerArquivo.runtimeconfig.dev.json
+C:\Users\Andre\source\repos\Lambida7LerArquivo\Lambida7LerArquivo\bin\Debug\netcoreapp3.1\Lambida7LerArquivo.dll
+C:\Users\Andre\source\repos\Lambida7LerArquivo\Lambida7LerArquivo\bin\Debug\netcoreapp3.1\Lambida7LerArquivo.pdb
+C:\Users\Andre\source\repos\Lambida7LerArquivo\Lambida7LerArquivo\obj\Debug\netcoreapp3.1\Lambida7LerArquivo.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\Lambida7LerArquivo\Lambida7LerArquivo\obj\Debug\netcoreapp3.1\Lambida7LerArquivo.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\Lambida7LerArquivo\Lambida7LerArquivo\obj\Debug\netcoreapp3.1\Lambida7LerArquivo.AssemblyInfo.cs
+C:\Users\Andre\source\repos\Lambida7LerArquivo\Lambida7LerArquivo\obj\Debug\netcoreapp3.1\Lambida7LerArquivo.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Lambida7LerArquivo\Lambida7LerArquivo\obj\Debug\netcoreapp3.1\Lambida7LerArquivo.dll
+C:\Users\Andre\source\repos\Lambida7LerArquivo\Lambida7LerArquivo\obj\Debug\netcoreapp3.1\Lambida7LerArquivo.pdb
+C:\Users\Andre\source\repos\Lambida7LerArquivo\Lambida7LerArquivo\obj\Debug\netcoreapp3.1\Lambida7LerArquivo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão17LinQeLambida\LinqDemo2\LinqDemo2\bin\Debug\netcoreapp3.1\LinqDemo2.exe
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão17LinQeLambida\LinqDemo2\LinqDemo2\bin\Debug\netcoreapp3.1\LinqDemo2.deps.json
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão17LinQeLambida\LinqDemo2\LinqDemo2\bin\Debug\netcoreapp3.1\LinqDemo2.runtimeconfig.json
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão17LinQeLambida\LinqDemo2\LinqDemo2\bin\Debug\netcoreapp3.1\LinqDemo2.runtimeconfig.dev.json
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão17LinQeLambida\LinqDemo2\LinqDemo2\bin\Debug\netcoreapp3.1\LinqDemo2.dll
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão17LinQeLambida\LinqDemo2\LinqDemo2\bin\Debug\netcoreapp3.1\LinqDemo2.pdb
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão17LinQeLambida\LinqDemo2\LinqDemo2\obj\Debug\netcoreapp3.1\LinqDemo2.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão17LinQeLambida\LinqDemo2\LinqDemo2\obj\Debug\netcoreapp3.1\LinqDemo2.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão17LinQeLambida\LinqDemo2\LinqDemo2\obj\Debug\netcoreapp3.1\LinqDemo2.AssemblyInfo.cs
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão17LinQeLambida\LinqDemo2\LinqDemo2\obj\Debug\netcoreapp3.1\LinqDemo2.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão17LinQeLambida\LinqDemo2\LinqDemo2\obj\Debug\netcoreapp3.1\LinqDemo2.dll
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão17LinQeLambida\LinqDemo2\LinqDemo2\obj\Debug\netcoreapp3.1\LinqDemo2.pdb
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Secão17LinQeLambida\LinqDemo2\LinqDemo2\obj\Debug\netcoreapp3.1\LinqDemo2.genruntimeconfig.cache
