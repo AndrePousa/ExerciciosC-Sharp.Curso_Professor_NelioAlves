@@ -1,0 +1,13 @@
+C:\Users\Andre\source\repos\Demo1TratamentodeExceções\Demo1TratamentodeExceções\bin\Debug\netcoreapp3.1\Demo1TratamentodeExceções.exe
+C:\Users\Andre\source\repos\Demo1TratamentodeExceções\Demo1TratamentodeExceções\bin\Debug\netcoreapp3.1\Demo1TratamentodeExceções.deps.json
+C:\Users\Andre\source\repos\Demo1TratamentodeExceções\Demo1TratamentodeExceções\bin\Debug\netcoreapp3.1\Demo1TratamentodeExceções.runtimeconfig.json
+C:\Users\Andre\source\repos\Demo1TratamentodeExceções\Demo1TratamentodeExceções\bin\Debug\netcoreapp3.1\Demo1TratamentodeExceções.runtimeconfig.dev.json
+C:\Users\Andre\source\repos\Demo1TratamentodeExceções\Demo1TratamentodeExceções\bin\Debug\netcoreapp3.1\Demo1TratamentodeExceções.dll
+C:\Users\Andre\source\repos\Demo1TratamentodeExceções\Demo1TratamentodeExceções\bin\Debug\netcoreapp3.1\Demo1TratamentodeExceções.pdb
+C:\Users\Andre\source\repos\Demo1TratamentodeExceções\Demo1TratamentodeExceções\obj\Debug\netcoreapp3.1\Demo1TratamentodeExceções.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\Demo1TratamentodeExceções\Demo1TratamentodeExceções\obj\Debug\netcoreapp3.1\Demo1TratamentodeExceções.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\Demo1TratamentodeExceções\Demo1TratamentodeExceções\obj\Debug\netcoreapp3.1\Demo1TratamentodeExceções.AssemblyInfo.cs
+C:\Users\Andre\source\repos\Demo1TratamentodeExceções\Demo1TratamentodeExceções\obj\Debug\netcoreapp3.1\Demo1TratamentodeExceções.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Demo1TratamentodeExceções\Demo1TratamentodeExceções\obj\Debug\netcoreapp3.1\Demo1TratamentodeExceções.dll
+C:\Users\Andre\source\repos\Demo1TratamentodeExceções\Demo1TratamentodeExceções\obj\Debug\netcoreapp3.1\Demo1TratamentodeExceções.pdb
+C:\Users\Andre\source\repos\Demo1TratamentodeExceções\Demo1TratamentodeExceções\obj\Debug\netcoreapp3.1\Demo1TratamentodeExceções.genruntimeconfig.cache
