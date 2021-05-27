@@ -1,0 +1,13 @@
+C:\Users\Andre\source\repos\Exception2\Exception2Exercicio\bin\Debug\netcoreapp3.1\Exception2Exercicio.exe
+C:\Users\Andre\source\repos\Exception2\Exception2Exercicio\bin\Debug\netcoreapp3.1\Exception2Exercicio.deps.json
+C:\Users\Andre\source\repos\Exception2\Exception2Exercicio\bin\Debug\netcoreapp3.1\Exception2Exercicio.runtimeconfig.json
+C:\Users\Andre\source\repos\Exception2\Exception2Exercicio\bin\Debug\netcoreapp3.1\Exception2Exercicio.runtimeconfig.dev.json
+C:\Users\Andre\source\repos\Exception2\Exception2Exercicio\bin\Debug\netcoreapp3.1\Exception2Exercicio.dll
+C:\Users\Andre\source\repos\Exception2\Exception2Exercicio\bin\Debug\netcoreapp3.1\Exception2Exercicio.pdb
+C:\Users\Andre\source\repos\Exception2\Exception2Exercicio\obj\Debug\netcoreapp3.1\Exception2Exercicio.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\Exception2\Exception2Exercicio\obj\Debug\netcoreapp3.1\Exception2Exercicio.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\Exception2\Exception2Exercicio\obj\Debug\netcoreapp3.1\Exception2Exercicio.AssemblyInfo.cs
+C:\Users\Andre\source\repos\Exception2\Exception2Exercicio\obj\Debug\netcoreapp3.1\Exception2Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Exception2\Exception2Exercicio\obj\Debug\netcoreapp3.1\Exception2Exercicio.dll
+C:\Users\Andre\source\repos\Exception2\Exception2Exercicio\obj\Debug\netcoreapp3.1\Exception2Exercicio.pdb
+C:\Users\Andre\source\repos\Exception2\Exception2Exercicio\obj\Debug\netcoreapp3.1\Exception2Exercicio.genruntimeconfig.cache
