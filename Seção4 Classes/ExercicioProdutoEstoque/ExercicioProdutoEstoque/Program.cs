@@ -34,7 +34,9 @@ namespace ExercicioProdutoEstoque
             quantidade = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             p.SaidadoEstoque(quantidade);
 
-            Console.WriteLine("Dados atualizados " + p);
+            Console.WriteLine("Dados atualizados: " + p);
+
+            Console.ReadKey();
         }
     }
 }

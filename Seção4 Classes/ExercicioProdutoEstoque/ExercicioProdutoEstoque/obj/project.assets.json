@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção5Contrutores\\ExercicioProdutoEstoque\\ExercicioProdutoEstoque\\ExercicioProdutoEstoque.csproj",
+      "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção4 Classes\\ExercicioProdutoEstoque\\ExercicioProdutoEstoque\\ExercicioProdutoEstoque.csproj",
       "projectName": "ExercicioProdutoEstoque",
-      "projectPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção5Contrutores\\ExercicioProdutoEstoque\\ExercicioProdutoEstoque\\ExercicioProdutoEstoque.csproj",
+      "projectPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção4 Classes\\ExercicioProdutoEstoque\\ExercicioProdutoEstoque\\ExercicioProdutoEstoque.csproj",
       "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção5Contrutores\\ExercicioProdutoEstoque\\ExercicioProdutoEstoque\\obj\\",
+      "outputPath": "C:\\Users\\Andre\\source\\repos\\Exercicios C#CursoCompleto\\Seção4 Classes\\ExercicioProdutoEstoque\\ExercicioProdutoEstoque\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

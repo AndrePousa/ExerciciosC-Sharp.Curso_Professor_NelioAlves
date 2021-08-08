@@ -1,5 +1,6 @@
 ﻿namespace Interfaces1.Csharp.Serviços
 {
+    //Realização de interface
     class BrasilTaxaServiço : ITaxaServiço
     {
         public double Taxa(double quantidade)

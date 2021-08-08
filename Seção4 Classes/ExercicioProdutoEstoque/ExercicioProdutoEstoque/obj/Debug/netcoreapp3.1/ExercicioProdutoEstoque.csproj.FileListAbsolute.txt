@@ -11,3 +11,16 @@ C:\Users\Andre\source\repos\ExercicioProdutoEstoque\ExercicioProdutoEstoque\obj\
 C:\Users\Andre\source\repos\ExercicioProdutoEstoque\ExercicioProdutoEstoque\obj\Debug\netcoreapp3.1\ExercicioProdutoEstoque.dll
 C:\Users\Andre\source\repos\ExercicioProdutoEstoque\ExercicioProdutoEstoque\obj\Debug\netcoreapp3.1\ExercicioProdutoEstoque.pdb
 C:\Users\Andre\source\repos\ExercicioProdutoEstoque\ExercicioProdutoEstoque\obj\Debug\netcoreapp3.1\ExercicioProdutoEstoque.genruntimeconfig.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\ExercicioProdutoEstoque\ExercicioProdutoEstoque\bin\Debug\netcoreapp3.1\ExercicioProdutoEstoque.exe
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\ExercicioProdutoEstoque\ExercicioProdutoEstoque\bin\Debug\netcoreapp3.1\ExercicioProdutoEstoque.deps.json
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\ExercicioProdutoEstoque\ExercicioProdutoEstoque\bin\Debug\netcoreapp3.1\ExercicioProdutoEstoque.runtimeconfig.json
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\ExercicioProdutoEstoque\ExercicioProdutoEstoque\bin\Debug\netcoreapp3.1\ExercicioProdutoEstoque.runtimeconfig.dev.json
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\ExercicioProdutoEstoque\ExercicioProdutoEstoque\bin\Debug\netcoreapp3.1\ExercicioProdutoEstoque.dll
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\ExercicioProdutoEstoque\ExercicioProdutoEstoque\bin\Debug\netcoreapp3.1\ExercicioProdutoEstoque.pdb
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\ExercicioProdutoEstoque\ExercicioProdutoEstoque\obj\Debug\netcoreapp3.1\ExercicioProdutoEstoque.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\ExercicioProdutoEstoque\ExercicioProdutoEstoque\obj\Debug\netcoreapp3.1\ExercicioProdutoEstoque.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\ExercicioProdutoEstoque\ExercicioProdutoEstoque\obj\Debug\netcoreapp3.1\ExercicioProdutoEstoque.AssemblyInfo.cs
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\ExercicioProdutoEstoque\ExercicioProdutoEstoque\obj\Debug\netcoreapp3.1\ExercicioProdutoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\ExercicioProdutoEstoque\ExercicioProdutoEstoque\obj\Debug\netcoreapp3.1\ExercicioProdutoEstoque.dll
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\ExercicioProdutoEstoque\ExercicioProdutoEstoque\obj\Debug\netcoreapp3.1\ExercicioProdutoEstoque.pdb
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção4 Classes\ExercicioProdutoEstoque\ExercicioProdutoEstoque\obj\Debug\netcoreapp3.1\ExercicioProdutoEstoque.genruntimeconfig.cache

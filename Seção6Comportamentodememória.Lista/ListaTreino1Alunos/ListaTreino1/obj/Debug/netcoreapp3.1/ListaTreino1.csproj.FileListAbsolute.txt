@@ -1,0 +1,13 @@
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção6Comportamentodememória.Lista\ListaTreino1\ListaTreino1\bin\Debug\netcoreapp3.1\ListaTreino1.exe
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção6Comportamentodememória.Lista\ListaTreino1\ListaTreino1\bin\Debug\netcoreapp3.1\ListaTreino1.deps.json
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção6Comportamentodememória.Lista\ListaTreino1\ListaTreino1\bin\Debug\netcoreapp3.1\ListaTreino1.runtimeconfig.json
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção6Comportamentodememória.Lista\ListaTreino1\ListaTreino1\bin\Debug\netcoreapp3.1\ListaTreino1.runtimeconfig.dev.json
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção6Comportamentodememória.Lista\ListaTreino1\ListaTreino1\bin\Debug\netcoreapp3.1\ListaTreino1.dll
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção6Comportamentodememória.Lista\ListaTreino1\ListaTreino1\bin\Debug\netcoreapp3.1\ListaTreino1.pdb
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção6Comportamentodememória.Lista\ListaTreino1\ListaTreino1\obj\Debug\netcoreapp3.1\ListaTreino1.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção6Comportamentodememória.Lista\ListaTreino1\ListaTreino1\obj\Debug\netcoreapp3.1\ListaTreino1.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção6Comportamentodememória.Lista\ListaTreino1\ListaTreino1\obj\Debug\netcoreapp3.1\ListaTreino1.AssemblyInfo.cs
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção6Comportamentodememória.Lista\ListaTreino1\ListaTreino1\obj\Debug\netcoreapp3.1\ListaTreino1.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção6Comportamentodememória.Lista\ListaTreino1\ListaTreino1\obj\Debug\netcoreapp3.1\ListaTreino1.dll
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção6Comportamentodememória.Lista\ListaTreino1\ListaTreino1\obj\Debug\netcoreapp3.1\ListaTreino1.pdb
+C:\Users\Andre\source\repos\Exercicios C#CursoCompleto\Seção6Comportamentodememória.Lista\ListaTreino1\ListaTreino1\obj\Debug\netcoreapp3.1\ListaTreino1.genruntimeconfig.cache

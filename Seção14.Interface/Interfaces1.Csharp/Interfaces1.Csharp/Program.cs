@@ -19,7 +19,7 @@ namespace Interfaces1.Csharp
 
             Console.Write("Entre com o valor por hora: ");
             double hora = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Console.Write("Entre com o vaor por dia; ");
+            Console.Write("Entre com o valor por dia; ");
             double dia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             CarroAluguel carroAluguel = new CarroAluguel(start, finish, new Veiculo(model));
