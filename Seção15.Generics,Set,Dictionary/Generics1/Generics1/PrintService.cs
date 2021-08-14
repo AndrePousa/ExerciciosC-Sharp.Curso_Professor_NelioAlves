@@ -2,13 +2,14 @@
 
 namespace Generics1
 {
+    // classe que contém serviços de impressão. 
     class PrintService
     {   //variavel interna que pode armazanar 10 números inteiros
         private int[] _values = new int[10];
         //variavel interna para contar os números que eu adicionei
         private int _count = 0;
 
-        //oprações
+        //operações
         //adicona o valor como algurmento dentro do vetor
         public void AddValue(int value)
         {   
