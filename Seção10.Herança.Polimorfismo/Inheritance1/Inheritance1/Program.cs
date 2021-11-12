@@ -11,7 +11,7 @@ namespace Course
 
             Console.WriteLine(account.Balance);
 
-            //account.Balance = 200.0; // error
+            //account.Balance = 200.0; // error Não é acessivel para ser modificado
         }
     }
 }

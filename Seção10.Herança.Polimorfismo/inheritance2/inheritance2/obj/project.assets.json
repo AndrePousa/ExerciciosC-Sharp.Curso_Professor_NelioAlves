@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\inheritance2\\inheritance2\\inheritance2.csproj",
+      "projectUniqueName": "C:\\Users\\Andre\\source\\Projetos Finalizados\\Exercicios C#CursoCompleto\\Seção10.Herança.Polimorfismo\\inheritance2\\inheritance2\\inheritance2.csproj",
       "projectName": "inheritance2",
-      "projectPath": "C:\\Users\\Andre\\source\\repos\\inheritance2\\inheritance2\\inheritance2.csproj",
+      "projectPath": "C:\\Users\\Andre\\source\\Projetos Finalizados\\Exercicios C#CursoCompleto\\Seção10.Herança.Polimorfismo\\inheritance2\\inheritance2\\inheritance2.csproj",
       "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andre\\source\\repos\\inheritance2\\inheritance2\\obj\\",
+      "outputPath": "C:\\Users\\Andre\\source\\Projetos Finalizados\\Exercicios C#CursoCompleto\\Seção10.Herança.Polimorfismo\\inheritance2\\inheritance2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

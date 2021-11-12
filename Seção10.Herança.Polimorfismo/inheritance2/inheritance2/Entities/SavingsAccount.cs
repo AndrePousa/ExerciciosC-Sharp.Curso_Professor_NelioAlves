@@ -16,7 +16,7 @@ namespace inheritance2.Entities
             InterestRate = interestRate;
         }
 
-        public void UpdateBalance()
+        public void UpdateBalance() //saldo x a taxa de juros
         {
             Balance += Balance * InterestRate;
         }
